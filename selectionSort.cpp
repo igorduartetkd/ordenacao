@@ -1,7 +1,9 @@
+/*
+	Selection sort - Igor Duarte igorduartetkd@gmail.com - 05/08/2016
+*/
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 
 using namespace std;
 
